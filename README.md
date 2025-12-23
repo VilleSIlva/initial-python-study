@@ -85,5 +85,3 @@ Este projeto foi desenvolvido como material de estudo e referência para aprendi
 - **poo/heranca.py**: Exemplos de herança
 - **poo/decoradores.py**: Decoradores em Python
 - **poo/decoradoresComuns.py**: Decoradores comuns da linguagem
-# initial-python-study
-# initial-python-study
