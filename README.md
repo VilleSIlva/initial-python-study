@@ -7,9 +7,6 @@ Este repositório contém uma coleção completa de exemplos e exercícios prát
 - [Sobre o Projeto](#sobre-o-projeto)
 - [Estrutura do Projeto](#estrutura-do-projeto)
 - [Conteúdo](#conteúdo)
-- [Como Usar](#como-usar)
-- [Requisitos](#requisitos)
-- [Projetos Práticos](#projetos-práticos)
 
 ## 🎯 Sobre o Projeto
 
